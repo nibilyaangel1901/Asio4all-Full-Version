@@ -239,4 +239,4 @@ This repository serves as the official landing page for ASIO4ALL. The software i
 **Get the most recent version of ASIO4ALL today!**
 
 ---
-**Last updated:** 2026-09-28 00:21:36 UTC
+**Last updated:** 2026-09-28 06:23:54 UTC
